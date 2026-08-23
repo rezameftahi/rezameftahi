@@ -8,30 +8,30 @@ I’m a Software Engineering graduate focused on building practical software wit
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering graduate
-- 🐍 Python developer
-- 🌐 Interested in backend development with Django
-- 🤖 Exploring Artificial Intelligence
-- 🐧 Linux enthusiast
-- 🌍 TOEFL certified
+* 🎓 Software Engineering graduate
+* 🐍 Python developer
+* 🌐 Interested in backend development with Django
+* 🤖 Exploring Artificial Intelligence
+* 🐧 Linux enthusiast
+* 🌍 TOEFL certified
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,numpy,git,github,docker,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,docker,linux&perline=6" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Advanced Python
-- Backend Development
-- Linear Algebra for AI
+* Artificial Intelligence
+* Machine Learning
+* Advanced Python
+* Backend Development
+* Linear Algebra for AI
 
 ---
 
